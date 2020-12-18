@@ -26,4 +26,4 @@ python3 orGatePerceptron.py
 If that's too simple for you, edit the rest of the file the way you like it.
 
 # Goodies:
-To see an excel sheet implementation of the same logic, open the orGatePerceptron.ods in LibreOffice Calc (application in Ubuntu/Linux). They are put in results folder.
+To see an excel sheet implementation of the same logic, open the orGatePerceptron.ods in LibreOffice Calc (application in Ubuntu/Linux). They are put in results-sample folder.
